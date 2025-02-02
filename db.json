@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "role": "admin",
+      "status": "active"
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "role": "user",
+      "status": "inactive"
+    },
+    {
+      "id": "3",
+      "name": "Michael Johnson",
+      "email": "michael.johnson@example.com",
+      "role": "editor",
+      "status": "active"
+    },
+    {
+      "id": "4",
+      "name": "Emily Brown",
+      "email": "emily.brown@example.com",
+      "role": "user",
+      "status": "active"
+    }
+  ]
+}
